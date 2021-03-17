@@ -1,2 +1,2 @@
 # plant-rhizosphere-mutualist
-# needed data is stored in doi: 10.17632/3nt7z4mhg2.4
+# needed data is stored in Mendeley Data: doi: 10.17632/3g6db3pj6b.2
